@@ -1,0 +1,24 @@
+COMANDOS DE VERSIONAMIENTO
+
+1. Abrir una terminal dentro de la carpeta del proyecto.
+
+2. Inicializar Git:
+git init
+
+3. Agregar archivos:
+git add .
+
+4. Crear commit:
+git commit -m "GA7-220501096-AA5-EV03 sistema de inventario"
+
+5. Crear un repositorio vacío en GitHub llamado:
+EMMA_ALVAREZ_AA5_EV03
+
+6. Conectar:
+git branch -M main
+git remote add origin https://github.com/USUARIO/EMMA_ALVAREZ_AA5_EV03.git
+
+7. Subir:
+git push -u origin main
+
+8. Copiar la URL real en repositorio.txt
